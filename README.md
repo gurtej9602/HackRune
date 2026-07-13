@@ -21,7 +21,7 @@ HackRune is a lightweight OSINT (Open Source Intelligence) toolkit that automate
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/HackRune.git
+git clone https://github.com/gurtej9602/HackRune.git
 cd HackRune
 npm install
 ```
